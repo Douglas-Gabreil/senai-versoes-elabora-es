@@ -1,6 +1,10 @@
 <HTML>
 <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
 <BODY>
-   <H1> TÍTULO1 </H1>
+   <H1> versionamento </H1>
 </BODY>
+<<<<<<< HEAD
 </HTML>
+=======
+</HTML>
+>>>>>>> 97af95b29b973d3afcd73aec2bd39311765b119f
